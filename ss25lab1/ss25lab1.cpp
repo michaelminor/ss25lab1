@@ -1,3 +1,6 @@
+/*Mike Minor 
+Student id: 16358106*/
+
 #include <iostream>
 #include <iomanip>
 #include <cctype>
